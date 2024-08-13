@@ -1,0 +1,8 @@
+libdir=/home/wsl/miniconda3/lib
+includedir=/home/wsl/miniconda3/include
+
+Name: libsolv
+Description: Library for solving packages
+Version: 0.7.24
+Libs: -L${libdir} -lsolv
+Cflags: -I${includedir}
