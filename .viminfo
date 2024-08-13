@@ -26,30 +26,50 @@
 |3,1,36,0,1,0,1723530200,"n"
 
 # File marks:
-'0  65  0  ~/.git/assignment1.1
-|4,48,65,0,1723534047,"~/.git/assignment1.1"
-'1  33  0  ~/my_unix_session
-|4,49,33,0,1723532902,"~/my_unix_session"
-'2  1  0  ~/my_unix_session
-|4,50,1,0,1723531764,"~/my_unix_session"
+'0  1  0  ~/MLE/assignment1.1
+|4,48,1,0,1723536953,"~/MLE/assignment1.1"
+'1  65  0  ~/.git/assignment1.1
+|4,49,65,0,1723534047,"~/.git/assignment1.1"
+'2  33  0  ~/my_unix_session
+|4,50,33,0,1723532902,"~/my_unix_session"
 '3  1  0  ~/my_unix_session
 |4,51,1,0,1723531764,"~/my_unix_session"
-'4  4  5  ~/a.py
-|4,52,4,5,1723530265,"~/a.py"
+'4  1  0  ~/my_unix_session
+|4,52,1,0,1723531764,"~/my_unix_session"
+'5  4  5  ~/a.py
+|4,53,4,5,1723530265,"~/a.py"
 
 # Jumplist (newest first):
+-'  1  0  ~/MLE/assignment1.1
+|4,39,1,0,1723536953,"~/MLE/assignment1.1"
 -'  65  0  ~/.git/assignment1.1
 |4,39,65,0,1723534047,"~/.git/assignment1.1"
+-'  65  0  ~/.git/assignment1.1
+|4,39,65,0,1723534047,"~/.git/assignment1.1"
+-'  1  0  ~/.git/assignment1.1
+|4,39,1,0,1723534032,"~/.git/assignment1.1"
 -'  1  0  ~/.git/assignment1.1
 |4,39,1,0,1723534032,"~/.git/assignment1.1"
 -'  33  0  ~/my_unix_session
 |4,39,33,0,1723532902,"~/my_unix_session"
 -'  33  0  ~/my_unix_session
 |4,39,33,0,1723532902,"~/my_unix_session"
+-'  33  0  ~/my_unix_session
+|4,39,33,0,1723532902,"~/my_unix_session"
+-'  33  0  ~/my_unix_session
+|4,39,33,0,1723532902,"~/my_unix_session"
 -'  1  0  ~/my_unix_session
 |4,39,1,0,1723532890,"~/my_unix_session"
 -'  1  0  ~/my_unix_session
 |4,39,1,0,1723532890,"~/my_unix_session"
+-'  1  0  ~/my_unix_session
+|4,39,1,0,1723532890,"~/my_unix_session"
+-'  1  0  ~/my_unix_session
+|4,39,1,0,1723532890,"~/my_unix_session"
+-'  1  0  ~/my_unix_session
+|4,39,1,0,1723531764,"~/my_unix_session"
+-'  1  0  ~/my_unix_session
+|4,39,1,0,1723531764,"~/my_unix_session"
 -'  1  0  ~/my_unix_session
 |4,39,1,0,1723531764,"~/my_unix_session"
 -'  1  0  ~/my_unix_session
@@ -70,6 +90,38 @@
 |4,39,4,5,1723530265,"~/a.py"
 -'  4  5  ~/a.py
 |4,39,4,5,1723530265,"~/a.py"
+-'  4  5  ~/a.py
+|4,39,4,5,1723530265,"~/a.py"
+-'  4  5  ~/a.py
+|4,39,4,5,1723530265,"~/a.py"
+-'  4  5  ~/a.py
+|4,39,4,5,1723530265,"~/a.py"
+-'  4  5  ~/a.py
+|4,39,4,5,1723530265,"~/a.py"
+-'  4  5  ~/a.py
+|4,39,4,5,1723530265,"~/a.py"
+-'  4  5  ~/a.py
+|4,39,4,5,1723530265,"~/a.py"
+-'  4  5  ~/a.py
+|4,39,4,5,1723530265,"~/a.py"
+-'  4  5  ~/a.py
+|4,39,4,5,1723530265,"~/a.py"
+-'  1  0  ~/a.py
+|4,39,1,0,1723530065,"~/a.py"
+-'  1  0  ~/a.py
+|4,39,1,0,1723530065,"~/a.py"
+-'  1  0  ~/a.py
+|4,39,1,0,1723530065,"~/a.py"
+-'  1  0  ~/a.py
+|4,39,1,0,1723530065,"~/a.py"
+-'  1  0  ~/a.py
+|4,39,1,0,1723530065,"~/a.py"
+-'  1  0  ~/a.py
+|4,39,1,0,1723530065,"~/a.py"
+-'  1  0  ~/a.py
+|4,39,1,0,1723530065,"~/a.py"
+-'  1  0  ~/a.py
+|4,39,1,0,1723530065,"~/a.py"
 -'  1  0  ~/a.py
 |4,39,1,0,1723530065,"~/a.py"
 -'  1  0  ~/a.py
@@ -88,6 +140,10 @@
 |4,39,1,0,1723530065,"~/a.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/MLE/assignment1.1
+	*	1723536950	0
+	"	1	0
 
 > ~/.git/assignment1.1
 	*	1723534043	0
